@@ -1,0 +1,21 @@
+environment: test
+
+database:
+  # Separate file so test runs never touch dev data
+  path: data/processed/etl_test.db
+  timeout_seconds: 30
+
+paths:
+  raw_data_dir: data/sample
+  sample_data_dir: data/sample
+  log_dir: logs
+
+logging:
+  level: WARNING
+  log_to_file: false
+  log_file: logs/etl_test.log
+
+pipeline:
+  batch_size: 50
+  retry_attempts: 1
+  retry_backoff_seconds: 0

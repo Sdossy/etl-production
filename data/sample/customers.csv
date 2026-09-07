@@ -1,0 +1,52 @@
+customer_id,first_name,last_name,email,phone,address_line1,city,state,postal_code,country,created_at,updated_at
+CUST0001,Daniel,Brown,daniel.brown1@example.com,555-381-5012,3757 Oak Ave,New York,NY,23434,USA,2025-01-14 00:00:00,2025-01-14 00:00:00
+CUST0002,Nancy,White,nancy.white2@example.com,555-704-7912,620 Main St,Dallas,TX,22280,USA,2024-02-14 00:00:00,2024-02-14 00:00:00
+CUST0003,Michael,Davis,michael.davis3@example.com,555-127-4257,9028 Elm St,Dallas,TX,38893,USA,2024-11-04 00:00:00,2024-11-04 00:00:00
+CUST0004,Joseph,Jackson,joseph.jackson4@example.com,555-990-1106,2715 Elm St,Phoenix,AZ,54597,USA,2025-02-18 00:00:00,2025-02-18 00:00:00
+CUST0005,William,Jones,,555-881-6514,1774 Main St,Houston,TX,59797,USA,2025-05-05 00:00:00,2025-05-05 00:00:00
+CUST0006,Patricia,Lopez,patricia.lopez6@example.com,555-370-1711,7627 Pine Rd,Philadelphia,PA,26361,USA,2024-11-05 00:00:00,2024-11-05 00:00:00
+CUST0007,Sandra,Gonzalez,sandra.gonzalez7@example.com,555-400-6925,9559 Oak Ave,Los Angeles,CA,19116,USA,2024-10-09 00:00:00,2024-10-09 00:00:00
+CUST0008,Mary,Perez,mary.perez8@example.com,555-396-2307,3914 Main St,Houston,TX,59823,USA,2025-01-30 00:00:00,2025-01-30 00:00:00
+CUST0009,William,Anderson,william.anderson9@example.com,555-479-6820,3532 Maple Dr,Philadelphia,PA,99593,USA,2024-03-24 00:00:00,2024-03-24 00:00:00
+CUST0010,Daniel,Williams,joseph.jackson4@example.com,555-275-9751,4110 Oak Ave,Austin,TX,70589,USA,2024-11-21 00:00:00,2024-11-21 00:00:00
+CUST0011,Richard,Rodriguez,richard.rodriguez11@example.com,555-801-6313,1016 Oak Ave,Dallas,TX,14207,USA,2024-04-22 00:00:00,2024-04-22 00:00:00
+CUST0012,Betty,Hernandez,betty.hernandez12@example.com,555-167-4456,9392 Maple Dr,San Antonio,TX,37869,USA,2024-05-17 00:00:00,2024-05-17 00:00:00
+CUST0013,Daniel,Thomas,daniel.thomas13@example.com,555-758-8517,2440 Maple Dr,San Antonio,TX,28301,USA,2025-03-28 00:00:00,2025-03-28 00:00:00
+CUST0014,Linda,White,linda.white14@example.com,555-369-8019,9660 Elm St,Dallas,TX,57447,USA,2024-10-02 00:00:00,2024-10-02 00:00:00
+CUST0015,Linda,Jones,linda.jones15@example.com,555-193-1771,1896 Oak Ave,Dallas,TX,92240,USA,2024-09-09 00:00:00,2024-09-09 00:00:00
+CUST0016,Jennifer,Sanchez,jennifer.sanchez16@example.com,555-165-7304,6352 Pine Rd,San Antonio,TX,71348,USA,2024-11-01 00:00:00,2024-11-01 00:00:00
+CUST0017,Thomas,Rodriguez,thomas.rodriguez17@example.com,555-111-2876,8897 Maple Dr,Dallas,TX,94012,USA,2025-03-16 00:00:00,2025-03-16 00:00:00
+CUST0018,David,Brown,david.brown18@example.com,555-261-8433,153 Maple Dr,Phoenix,AZ,75612,USA,2024-08-10 00:00:00,2024-08-10 00:00:00
+CUST0019,Anthony,Garcia,anthony.garcia19@example.com,555-208-5889,8417 Pine Rd,Dallas,TX,36071,USA,2025-04-12 00:00:00,2025-04-12 00:00:00
+CUST0020,Robert,Lopez,robert.lopez20@example.com,555-897-9689,109 Pine Rd,Chicago,IL,52487,USA,2024-10-03 00:00:00,2024-10-03 00:00:00
+CUST0021,Jessica,Smith,jessica.smith21@example.com,555-471-6038,4023 Main St,Los Angeles,CA,41571,USA,2025-04-20 00:00:00,2025-04-20 00:00:00
+CUST0022,Paul,Jackson,paul.jackson22@example.com,555-849-8962,1233 Pine Rd,Los Angeles,CA,26483,USA,2024-02-13 00:00:00,2024-02-13 00:00:00
+CUST0023,Robert,Perez,robert.perez23@example.com,555-662-3705,4442 Pine Rd,San Diego,CA,89507,USA,2025-04-29 00:00:00,2025-04-29 00:00:00
+CUST0024,Susan,Miller,susan.miller24@example.com,555-847-4295,5207 Elm St,Dallas,TX,98039,USA,2025-01-21 00:00:00,2025-01-21 00:00:00
+CUST0025,Daniel,Lopez,daniel.lopez25@example.com,555-629-8397,2082 Oak Ave,San Diego,CA,39451,USA,2025-04-05 00:00:00,2025-04-05 00:00:00
+CUST0026,John,Hernandez,john.hernandez26@example.com,555-667-4770,9741 Oak Ave,New York,NY,10942,USA,2024-10-28 00:00:00,2024-10-28 00:00:00
+CUST0027,John,Thompson,john.thompson27@example.com,555-169-1514,5513 Main St,New York,NY,77391,USA,2024-04-27 00:00:00,2024-04-27 00:00:00
+CUST0028,Linda,Rodriguez,linda.rodriguez28@example.com,555-652-3167,9455 Pine Rd,San Diego,CA,71953,USA,2024-04-19 00:00:00,2024-04-19 00:00:00
+CUST0029,Linda,Sanchez,linda.sanchez29@example.com,555-516-4119,1645 Main St,San Diego,CA,96374,USA,2025-02-17 00:00:00,2025-02-17 00:00:00
+CUST0030,Susan,Lopez,susan.lopez30@example.com,555-578-1887,1712 Main St,San Antonio,TX,62772,USA,2024-07-29 00:00:00,2024-07-29 00:00:00
+CUST0031,Lisa,Hernandez,lisa.hernandez31@example.com,555-296-4116,8886 Elm St,Los Angeles,CA,28373,USA,2024-05-07 00:00:00,2024-05-07 00:00:00
+CUST0032,Susan,Garcia,susan.garcia32@example.com,555-355-2235,7360 Pine Rd,Phoenix,AZ,22833,USA,2024-08-24 00:00:00,2024-08-24 00:00:00
+CUST0033,Mary,Lee,mary.lee33@example.com,555-115-2528,3972 Oak Ave,Dallas,TX,63269,USA,2025-03-04 00:00:00,2025-03-04 00:00:00
+CUST0034,Jessica,Thomas,jessica.thomas34@example.com,555-510-1960,2797 Elm St,Houston,TX,10282,USA,2025-03-18 00:00:00,2025-03-18 00:00:00
+CUST0035,Richard,Rodriguez,richard.rodriguez35@example.com,555-533-8973,2636 Oak Ave,San Diego,CA,48890,USA,2024-05-26 00:00:00,2024-05-26 00:00:00
+CUST0036,Michael,Johnson,michael.johnson36@example.com,555-655-1998,5238 Main St,Austin,TX,16572,USA,2025-01-11 00:00:00,2025-01-11 00:00:00
+CUST0037,Charles,Thomas,charles.thomas37@example.com,555-973-9701,2679 Main St,Dallas,TX,76562,USA,2025-04-15 00:00:00,2025-04-15 00:00:00
+CUST0038,John,Ramirez,john.ramirez38@example.com,555-709-2113,3953 Elm St,Chicago,IL,25713,USA,2024-02-05 00:00:00,2024-02-05 00:00:00
+CUST0039,Paul,Jackson,paul.jackson39@example.com,555-708-1651,1443 Elm St,Houston,TX,96163,USA,2024-10-23 00:00:00,2024-10-23 00:00:00
+CUST0040,Charles,Jackson,charles.jackson40@example.com,555-367-4346,5247 Oak Ave,Dallas,TX,44814,USA,2024-06-10 00:00:00,2024-06-10 00:00:00
+CUST0041,Richard,Jones,richard.jones41@example.com,555-423-2188,252 Elm St,Phoenix,AZ,91416,USA,2024-08-22 00:00:00,2024-08-22 00:00:00
+CUST0042,Charles,Brown,charles.brown42@example.com,555-318-9288,4445 Oak Ave,Los Angeles,CA,55745,USA,2024-10-02 00:00:00,2024-10-02 00:00:00
+CUST0043,Paul,Williams,paul.williams43@example.com,555-391-3584,7279 Pine Rd,Houston,TX,49651,USA,2024-07-08 00:00:00,2024-07-08 00:00:00
+CUST0044,Karen,Sanchez,karen.sanchez44@example.com,555-783-5905,1797 Oak Ave,Dallas,TX,44664,USA,2024-01-05 00:00:00,2024-01-05 00:00:00
+CUST0045,Patricia,Lewis,patricia.lewis45@example.com,555-666-3546,4562 Maple Dr,Los Angeles,CA,89276,USA,2025-01-15 00:00:00,2025-01-15 00:00:00
+CUST0046,Michael,Thompson,michael.thompson46@example.com,555-803-5325,8380 Elm St,Philadelphia,PA,42914,USA,2024-04-14 00:00:00,2024-04-14 00:00:00
+CUST0047,Paul,Robinson,paul.robinson47@example.com,555-749-7939,4633 Main St,New York,NY,10464,USA,2024-02-17 00:00:00,2024-02-17 00:00:00
+CUST0048,David,Harris,david.harris48@example.com,555-368-3647,7339 Pine Rd,Chicago,IL,66057,USA,2024-11-22 00:00:00,2024-11-22 00:00:00
+CUST0049,Sarah,Smith,sarah.smith49@example.com,555-807-3442,9038 Main St,Los Angeles,CA,58393,USA,2024-02-08 00:00:00,2024-02-08 00:00:00
+CUST0050,Charles,Moore,charles.moore50@example.com,555-230-1685,5150 Maple Dr,Chicago,IL,15229,USA,2024-08-08 00:00:00,2024-08-08 00:00:00
+CUST0016,Jennifer,Sanchez,jennifer.sanchez16@example.com,555-165-7304,6352 Pine Rd,San Antonio,TX,71348,USA,2024-11-01 00:00:00,2024-11-01 00:00:00

@@ -1,0 +1,22 @@
+environment: prod
+
+database:
+  # In a real deployment this path would typically come from an
+  # environment variable rather than being hardcoded here.
+  path: data/processed/etl_production.db
+  timeout_seconds: 60
+
+paths:
+  raw_data_dir: data/raw
+  sample_data_dir: data/sample
+  log_dir: logs
+
+logging:
+  level: INFO
+  log_to_file: true
+  log_file: logs/etl_prod.log
+
+pipeline:
+  batch_size: 2000
+  retry_attempts: 5
+  retry_backoff_seconds: 5

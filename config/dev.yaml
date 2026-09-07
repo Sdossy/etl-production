@@ -1,0 +1,21 @@
+environment: dev
+
+database:
+  # SQLite: just a file path, no host/port/user/password needed
+  path: data/processed/etl_production.db
+  timeout_seconds: 30
+
+paths:
+  raw_data_dir: data/raw
+  sample_data_dir: data/sample
+  log_dir: logs
+
+logging:
+  level: DEBUG
+  log_to_file: true
+  log_file: logs/etl_dev.log
+
+pipeline:
+  batch_size: 500
+  retry_attempts: 3
+  retry_backoff_seconds: 2
