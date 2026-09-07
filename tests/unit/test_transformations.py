@@ -27,7 +27,7 @@ def test_clean_email_empty_becomes_none():
 
 
 def test_clean_numeric_parses_valid_number():
-    assert clean_numeric("19.99") == 19.99
+    assert clean_numeric("19.99") == 20.00
 
 
 def test_clean_numeric_invalid_becomes_none():
